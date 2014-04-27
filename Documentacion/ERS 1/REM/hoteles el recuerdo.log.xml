@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="iso-8859-1" ?>
 <rem:log xmlns:rem="http://rem.lsi.us.es">
 <rem:change>
+<rem:type>D</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Deleted object [UC-0010] Crear Cuenta with 1 children and 2 changes]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document created]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
 <rem:type>C</rem:type>
 <rem:owner>DRS-0002</rem:owner><rem:date>
 <rem:year>2014</rem:year>
@@ -10,89 +37,35 @@
 <rem:description><![CDATA[Document created]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>C</rem:type>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
 <rem:owner>CHS-0004</rem:owner><rem:date>
 <rem:year>2014</rem:year>
 <rem:month>4</rem:month>
 <rem:day>26</rem:day>
 </rem:date>
-<rem:description><![CDATA[Document created]]></rem:description>
+<rem:description><![CDATA[Document saved]]></rem:description>
 </rem:change>
 <rem:change>
-<rem:type>C</rem:type>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
 <rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document created]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>C</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document created]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DRS-0002</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>DFS-0003</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CHS-0004</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
-<rem:year>2014</rem:year>
-<rem:month>4</rem:month>
-<rem:day>26</rem:day>
-</rem:date>
-<rem:description><![CDATA[Document saved]]></rem:description>
-</rem:change>
-<rem:change>
-<rem:type>S</rem:type>
-<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2014</rem:year>
 <rem:month>4</rem:month>
 <rem:day>26</rem:day>
@@ -110,7 +83,79 @@
 </rem:change>
 <rem:change>
 <rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
 <rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document created]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>C</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document created]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CHS-0004</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DRS-0002</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>DFS-0003</rem:owner><rem:date>
+<rem:year>2014</rem:year>
+<rem:month>4</rem:month>
+<rem:day>26</rem:day>
+</rem:date>
+<rem:description><![CDATA[Document saved]]></rem:description>
+</rem:change>
+<rem:change>
+<rem:type>S</rem:type>
+<rem:owner>CRS-0001</rem:owner><rem:date>
 <rem:year>2014</rem:year>
 <rem:month>4</rem:month>
 <rem:day>26</rem:day>
